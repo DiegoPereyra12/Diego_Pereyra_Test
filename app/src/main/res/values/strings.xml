@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_message">Algo salió mal, revisa tu conexión y prueba de nuevo</string>
+    <string name="haz_click_en_algun_bottom">Haz click en algun bottom</string>
+</resources>
